@@ -16,8 +16,8 @@ export default class Home extends Component {
                                             <div className="slider-text-inner js-fullheight">
                                                 <div className="desc">
                                                     <h1>Hi! <br/>I'm Vinay</h1>
-                                                    <p><a className="btn btn-primary btn-learn">Download CV <i
-                                                        className="icon-download4"/>https://drive.google.com/file/d/1lgdNQxYQ69SkpA8F1HjceKdUaWkAi9wc/view</a></p>
+                                                    <p><a className="btn btn-primary btn-learn" href= "https://drive.google.com/file/d/1lgdNQxYQ69SkpA8F1HjceKdUaWkAi9wc/view">Download CV <i
+                                                        className="icon-download4"/></a></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -33,7 +33,7 @@ export default class Home extends Component {
                                             <div className="slider-text-inner">
                                                 <div className="desc">
                                                     <h1>I am <br/>a Software Engineer</h1>
-                                                    <p><a className="btn btn-primary btn-learn">View LinkedIn <i
+                                                    <p><a className="btn btn-primary btn-learn" href= "https://www.linkedin.com/in/vinaykrishnanelly/">View LinkedIn <i
                                                         className="icon-briefcase3"/>https://www.linkedin.com/in/vinaykrishnanelly/</a></p>
                                                 </div>
                                             </div>
