@@ -107,6 +107,17 @@ export default class Skills extends Component {
                             </div>
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                                 <div className="progress-wrap">
+                                    <h3>GraphQL</h3>
+                                    <div className="progress">
+                                        <div className="progress-bar color-5" role="progressbar" aria-valuenow={90}
+                                             aria-valuemin={0} aria-valuemax={100} style={{width: '90%'}}>
+                                            <span>90%</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+                                <div className="progress-wrap">
                                     <h3>DynamoDB</h3>
                                     <div className="progress">
                                         <div className="progress-bar color-5" role="progressbar" aria-valuenow={90}

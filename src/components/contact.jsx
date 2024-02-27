@@ -21,7 +21,16 @@ export default class Contact extends Component {
                                         <i className="icon-globe-outline"/>
                                     </div>
                                     <div className="colorlib-text">
-                                        <p>hirevinaynelly@gmail.com</p>
+                                        <p><a href= "mailto: hirevinaynelly@gmail.com">hirevinaynelly@gmail.com</a></p>
+                                    </div>
+                                </div>
+                                <div className="colorlib-feature colorlib-feature-sm animate-box"
+                                     data-animate-effect="fadeInLeft">
+                                    <div className="colorlib-icon">
+                                        <i className="icon-map"/>
+                                    </div>
+                                    <div className="colorlib-text">
+                                        <p><a href='https://www.upwork.com/freelancers/~0195f4b70b2e9726a8?mp_source=share' target="_blank">Freelancing - Upwork</a></p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box"
