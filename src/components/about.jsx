@@ -23,7 +23,7 @@ export default class About extends Component {
                                 <div className="row">
                                     <div className="col-md-3 animate-box" data-animate-effect="fadeInLeft">
                                         <div className="services color-1">
-                                            <span className="icon2"><i className="icon-bulb"/></span>
+                                            <span className="icon2"><i className="icon-code"/></span>
                                             <h3>Graphic Design</h3>
                                         </div>
                                     </div>
