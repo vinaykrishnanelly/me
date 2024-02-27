@@ -28,12 +28,8 @@ export default class Sidebar extends Component {
                         </nav>
                         <div className="colorlib-footer">
                             <p>
-                                <small>© {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                                    Copyright © All rights reserved | This template is made with <i
-                                        className="icon-heart" aria-hidden="true"/> by <a href="https://colorlib.com"
-                                                                                          target="_blank">Colorlib</a>
-                                    {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                                    <span>Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash.com</a></span></small>
+                                <small>
+                                    Copyright © All rights reserved | This template is made with </small>
                             </p>
                             <ul>
                                 <li><a href="#"><i className="icon-facebook2"/></a></li>
