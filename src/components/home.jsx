@@ -34,7 +34,7 @@ export default class Home extends Component {
                                                 <div className="desc">
                                                     <h1>I am <br/>a Software Engineer</h1>
                                                     <p><a className="btn btn-primary btn-learn" href= "https://www.linkedin.com/in/vinaykrishnanelly/">View LinkedIn <i
-                                                        className="icon-briefcase3"/>https://www.linkedin.com/in/vinaykrishnanelly/</a></p>
+                                                        className="icon-briefcase3"/></a></p>
                                                 </div>
                                             </div>
                                         </div>
