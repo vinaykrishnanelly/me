@@ -20,8 +20,8 @@ export default class Services extends Component {
             <i className="icon-bulb"/>
           </span>
                                     <div className="desc">
-                                        <h3>Innovative Ideas</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                        <h3>Backend Software Development</h3>
+                                        <p>Expert in backend development, I excel in creating scalable, secure cloud-based solutions</p>
                                     </div>
                                 </div>
                             </div>
@@ -31,8 +31,8 @@ export default class Services extends Component {
             <i className="icon-data"/>
           </span>
                                     <div className="desc">
-                                        <h3>Software</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                        <h3>Full Stack Development</h3>
+                                        <p>Skilled in full-stack development, I proficiently bridge frontend and backend technologies</p>
                                     </div>
                                 </div>
                             </div>
@@ -42,8 +42,8 @@ export default class Services extends Component {
             <i className="icon-phone3"/>
           </span>
                                     <div className="desc">
-                                        <h3>Application</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                        <h3>System Design</h3>
+                                        <p>I architect scalable and resilient cloud infrastructures, high performing and reliable complex software ecosystems</p>
                                     </div>
                                 </div>
                             </div>
@@ -53,8 +53,8 @@ export default class Services extends Component {
             <i className="icon-layers2"/>
           </span>
                                     <div className="desc">
-                                        <h3>Graphic Design</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                        <h3>Technical Mentorship</h3>
+                                        <p>Experienced in technical mentorship, I guide and elevate teams through design, code quality and best practices</p>
                                     </div>
                                 </div>
                             </div>
@@ -64,8 +64,8 @@ export default class Services extends Component {
             <i className="icon-data"/>
           </span>
                                     <div className="desc">
-                                        <h3>Software</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                        <h3>Freelancing</h3>
+                                        <p>I am open for contract and freelancing projects. See my contact section for more details</p>
                                     </div>
                                 </div>
                             </div>
@@ -75,8 +75,9 @@ export default class Services extends Component {
             <i className="icon-phone3"/>
           </span>
                                     <div className="desc">
-                                        <h3>Application</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                        <h3>Mobile Application Development</h3>
+                                        <p> I integrate my strong backend and
+                                            cloud services expertise to create seamless, scalable mobile applications</p>
                                     </div>
                                 </div>
                             </div>

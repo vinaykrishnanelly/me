@@ -11,10 +11,10 @@ export default class About extends Component {
                                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="col-md-12">
                                         <div className="about-desc">
-                                            <span className="heading-meta">About Us</span>
+                                            <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p><strong>Hi Vinay Krishna Nelly</strong> a software engineer who loves solving problems and making things work better.
-                                                I've worked at some cool places like Amazon Web Services and Nordstrom.
+                                                I've worked at some cool places like Amazon and Nordstrom.
                                                 What I enjoy the most is creating software that makes a difference, whether it's making systems run faster,
                                                 saving money, or just making users' lives easier.</p>
                                         </div>
@@ -30,19 +30,19 @@ export default class About extends Component {
                                     <div className="col-md-3 animate-box" data-animate-effect="fadeInRight">
                                         <div className="services color-2">
                                             <span className="icon2"><i className="icon-data"/></span>
-                                            <h3>Cloud infrastructure (AWS)</h3>
+                                            <h3>Cloud Infrastructure (AWS)</h3>
                                         </div>
                                     </div>
                                     <div className="col-md-3 animate-box" data-animate-effect="fadeInTop">
                                         <div className="services color-3">
-                                            <span className="icon2"><i className="icon-globe-outline"/></span>
-                                            <h3>Distributed Systems</h3>
+                                            <span className="icon2"><i className="icon-group"/></span>
+                                            <h3>Cross-functional Collaboration</h3>
                                         </div>
                                     </div>
                                     <div className="col-md-3 animate-box" data-animate-effect="fadeInBottom">
                                         <div className="services color-4">
-                                            <span className="icon2"><i className="icon-group"/></span>
-                                            <h3>Cross-functional Collaboration</h3>
+                                            <span className="icon2"><i className="icon-lightbulb"/></span>
+                                            <h3>Technical Mentoring and Leadership</h3>
                                         </div>
                                     </div>
                                 </div>

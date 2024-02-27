@@ -19,11 +19,11 @@ class App extends Component{
                 <div id="colorlib-main">
                   <Home></Home>
                   <About></About>
+                    <Experience></Experience>
+                    <Education></Education>
+                    <Skills></Skills>
                   <Services></Services>
-                  <Counter></Counter>
-                  <Skills></Skills>
-                  <Education></Education>
-                  <Experience></Experience>
+                  {/*<Counter></Counter>*/}
                   <Contact></Contact>
                 </div>
           </div>

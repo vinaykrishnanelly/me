@@ -23,24 +23,25 @@ export default class Education extends Component {
                                                 <h4 className="panel-title">
                                                     <a data-toggle="collapse" data-parent="#accordion"
                                                        href="#collapseOne" aria-expanded="true"
-                                                       aria-controls="collapseOne">Master Degree Graphic Design
+                                                       aria-controls="collapseOne">Master's in Computer Science
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseOne" className="panel-collapse collapse in" role="tabpanel"
                                                  aria-labelledby="headingOne">
                                                 <div className="panel-body">
-                                                    <div className="row">
-                                                        <div className="col-md-6">
-                                                            <p>Far far away, behind the word mountains, far from the
-                                                                countries Vokalia and Consonantia, there live the blind
-                                                                texts. </p>
-                                                        </div>
-                                                        <div className="col-md-6">
-                                                            <p>Separated they live in Bookmarksgrove right at the coast
-                                                                of the Semantics, a large language ocean.</p>
-                                                        </div>
-                                                    </div>
+                                                    <p>Graduated with Master's in Computer Science from <strong>Illinois Institute of Technology, Chicago</strong> </p>
+                                                    <p>Course work:
+                                                        <ul>
+                                                            <li>Artificial Intelligence</li>
+                                                            <li>Machine Learning</li>
+                                                            <li>Natural Language Processing</li>
+                                                            <li>Design and Analysis of Algorithms</li>
+                                                            <li>Online Social Network Analysis</li>
+                                                            <li>Software Project Management</li>
+                                                            <li>Mobile Application Development</li>
+                                                        </ul>
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -49,84 +50,26 @@ export default class Education extends Component {
                                                 <h4 className="panel-title">
                                                     <a className="collapsed" data-toggle="collapse"
                                                        data-parent="#accordion" href="#collapseTwo"
-                                                       aria-expanded="false" aria-controls="collapseTwo">Bachelor Degree
-                                                        of Computer Science
+                                                       aria-expanded="false" aria-controls="collapseTwo">Bachelor of Technology in Computer Science
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseTwo" className="panel-collapse collapse" role="tabpanel"
                                                  aria-labelledby="headingTwo">
                                                 <div className="panel-body">
-                                                    <p>Far far away, behind the word <strong>mountains</strong>, far
-                                                        from the countries Vokalia and Consonantia, there live the blind
-                                                        texts. Separated they live in Bookmarksgrove right at the coast
-                                                        of the Semantics, a large language ocean.</p>
-                                                    <ul>
-                                                        <li>Separated they live in Bookmarksgrove right</li>
-                                                        <li>Separated they live in Bookmarksgrove right</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="panel panel-default">
-                                            <div className="panel-heading" role="tab" id="headingThree">
-                                                <h4 className="panel-title">
-                                                    <a className="collapsed" data-toggle="collapse"
-                                                       data-parent="#accordion" href="#collapseThree"
-                                                       aria-expanded="false" aria-controls="collapseThree">Diploma in
-                                                        Information Technology
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id="collapseThree" className="panel-collapse collapse" role="tabpanel"
-                                                 aria-labelledby="headingThree">
-                                                <div className="panel-body">
-                                                    <p>Far far away, behind the word <strong>mountains</strong>, far
-                                                        from the countries Vokalia and Consonantia, there live the blind
-                                                        texts. Separated they live in Bookmarksgrove right at the coast
-                                                        of the Semantics, a large language ocean.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div className="panel panel-default">
-                                            <div className="panel-heading" role="tab" id="headingFour">
-                                                <h4 className="panel-title">
-                                                    <a className="collapsed" data-toggle="collapse"
-                                                       data-parent="#accordion" href="#collapseFour"
-                                                       aria-expanded="false" aria-controls="collapseFour">Diploma in
-                                                        Information Technology
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id="collapseFour" className="panel-collapse collapse" role="tabpanel"
-                                                 aria-labelledby="headingFour">
-                                                <div className="panel-body">
-                                                    <p>Far far away, behind the word <strong>mountains</strong>, far
-                                                        from the countries Vokalia and Consonantia, there live the blind
-                                                        texts. Separated they live in Bookmarksgrove right at the coast
-                                                        of the Semantics, a large language ocean.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div className="panel panel-default">
-                                            <div className="panel-heading" role="tab" id="headingFive">
-                                                <h4 className="panel-title">
-                                                    <a className="collapsed" data-toggle="collapse"
-                                                       data-parent="#accordion" href="#collapseFive"
-                                                       aria-expanded="false" aria-controls="collapseFive">High School
-                                                        Secondary Education
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id="collapseFive" className="panel-collapse collapse" role="tabpanel"
-                                                 aria-labelledby="headingFive">
-                                                <div className="panel-body">
-                                                    <p>Far far away, behind the word <strong>mountains</strong>, far
-                                                        from the countries Vokalia and Consonantia, there live the blind
-                                                        texts. Separated they live in Bookmarksgrove right at the coast
-                                                        of the Semantics, a large language ocean.</p>
+                                                    <p>Graduated with Bachelor of Technology in Computer Science from <strong>Jawaharlal Nehru Technological University, Hyderabad, India</strong></p>
+                                                    <p>Course work:
+                                                        <ul>
+                                                            <li>Data Structures and Algorithms</li>
+                                                            <li>Object Oriented Programming</li>
+                                                            <li>Java using Data Structures</li>
+                                                            <li>C using Data Structures</li>
+                                                            <li>C++ using Data Structures</li>
+                                                            <li>Machine Learning</li>
+                                                            <li>Operating System</li>
+                                                            <li>Computer Networks</li>
+                                                        </ul>
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
