@@ -23,39 +23,37 @@ export default class Experience extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Software Engineer II - Nordstrom, Los Angeles, CA <span>OCT 2021 - July 2023</span></h2>
-                                                <p>
-                                                    <ul>
-                                                        <li>
-                                                            Architected cloud infrastructure for data intensive applications
-                                                            leveraging Java and Spring Boot, with Kubernetes orchestration and
-                                                            Kafka messaging; integrated AWS services (Lambda, EC2, S3, IAM, VPC)
-                                                            and Terraform to automate supply chain processes.
-                                                        </li>
-                                                        <li>
-                                                            Developed, tested, and launched innovative cloud based automated systems
-                                                            tailored to optimize carton-receiving operations at Nordstrom warehouses,
-                                                            leading to a substantial $2 million yearly cost reduction and improved
-                                                            organizational outcomes.
-                                                        </li>
-                                                        <li>
-                                                            Established robust Continuous Integration/ Continuous Deployment (CI/CD) pipelines,
-                                                            version control, including comprehensive unit testing and integration testing maintaining
-                                                            the test coverage of a minimum of 90%, to facilitate seamless deployment of applications.
-                                                            Championed the launch of dashboard applications for warehouse operations, enabling a
-                                                            20% reduction in order fulfillment time and a 25% increase in inventory turnover rate.
-                                                        </li>
-                                                        <li>
-                                                            Mentored Software Engineer-1 and interns, providing guidance on code quality and best practices,
-                                                            resulting in enhanced code quality and compliance with industry standards.
-                                                        </li>
-                                                        <li>
-                                                            Led team in frequent code reviews, design and security reviews, identifying and
-                                                            addressing critical vulnerabilities in the production environment;
-                                                            optimized on-call/ PagerDuty procedures, resulting in 25% faster incident
-                                                            resolution and improved customer satisfaction.
-                                                        </li>
-                                                    </ul>
-                                                </p>
+                                                <ul>
+                                                    <li>
+                                                        Architected cloud infrastructure for data intensive applications
+                                                        leveraging Java and Spring Boot, with Kubernetes orchestration and
+                                                        Kafka messaging; integrated AWS services (Lambda, EC2, S3, IAM, VPC)
+                                                        and Terraform to automate supply chain processes.
+                                                    </li>
+                                                    <li>
+                                                        Developed, tested, and launched innovative cloud based automated systems
+                                                        tailored to optimize carton-receiving operations at Nordstrom warehouses,
+                                                        leading to a substantial $2 million yearly cost reduction and improved
+                                                        organizational outcomes.
+                                                    </li>
+                                                    <li>
+                                                        Established robust Continuous Integration/ Continuous Deployment (CI/CD) pipelines,
+                                                        version control, including comprehensive unit testing and integration testing maintaining
+                                                        the test coverage of a minimum of 90%, to facilitate seamless deployment of applications.
+                                                        Championed the launch of dashboard applications for warehouse operations, enabling a
+                                                        20% reduction in order fulfillment time and a 25% increase in inventory turnover rate.
+                                                    </li>
+                                                    <li>
+                                                        Mentored Software Engineer-1 and interns, providing guidance on code quality and best practices,
+                                                        resulting in enhanced code quality and compliance with industry standards.
+                                                    </li>
+                                                    <li>
+                                                        Led team in frequent code reviews, design and security reviews, identifying and
+                                                        addressing critical vulnerabilities in the production environment;
+                                                        optimized on-call/ PagerDuty procedures, resulting in 25% faster incident
+                                                        resolution and improved customer satisfaction.
+                                                    </li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </article>
@@ -67,7 +65,6 @@ export default class Experience extends Component {
                                             <div className="timeline-label">
                                                 <h2>Software Development Engineer - Amazon, Seattle
                                                     <span> JULY 2020 - AUG 2021</span></h2>
-                                                <p>
                                                     <ul>
                                                         <li>
                                                             Engineered infrastructure enhancements for AWS System Manager
@@ -97,7 +94,6 @@ export default class Experience extends Component {
                                                             Coordinated 24/7 on-call support to perform root cause analysis on incidents and safeguard the team's services.
                                                         </li>
                                                     </ul>
-                                                </p>
                                             </div>
                                         </div>
                                     </article>
@@ -108,7 +104,6 @@ export default class Experience extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Software Engineer Intern - Vision 13 <span>SEP 2019 - DEC 2019</span></h2>
-                                                <p>
                                                     <ul>
                                                         <li>
                                                             Designed and developed a user interface application for Android devices,
@@ -121,7 +116,6 @@ export default class Experience extends Component {
                                                             team for further refinement and implementation.
                                                         </li>
                                                     </ul>
-                                                </p>
                                             </div>
                                         </div>
                                     </article>
@@ -132,7 +126,6 @@ export default class Experience extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Software Engineer - Tata <span> JUNE 2016 - AUG 2018</span></h2>
-                                                <p>
                                                     <ul>
                                                         <li>
                                                             Awarded the Star Performer Award twice in recognition of
@@ -152,7 +145,6 @@ export default class Experience extends Component {
                                                             ensure synchronization on project targets.
                                                         </li>
                                                     </ul>
-                                                </p>
                                             </div>
                                         </div>
                                     </article>

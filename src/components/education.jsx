@@ -31,17 +31,16 @@ export default class Education extends Component {
                                                  aria-labelledby="headingOne">
                                                 <div className="panel-body">
                                                     <p>Graduated with Master's in Computer Science from <strong>Illinois Institute of Technology, Chicago</strong> </p>
-                                                    <p>Course work:
-                                                        <ul>
-                                                            <li>Artificial Intelligence</li>
-                                                            <li>Machine Learning</li>
-                                                            <li>Natural Language Processing</li>
-                                                            <li>Design and Analysis of Algorithms</li>
-                                                            <li>Online Social Network Analysis</li>
-                                                            <li>Software Project Management</li>
-                                                            <li>Mobile Application Development</li>
-                                                        </ul>
-                                                    </p>
+                                                    <p>Course work:</p>
+                                                    <ul>
+                                                        <li>Artificial Intelligence</li>
+                                                        <li>Machine Learning</li>
+                                                        <li>Natural Language Processing</li>
+                                                        <li>Design and Analysis of Algorithms</li>
+                                                        <li>Online Social Network Analysis</li>
+                                                        <li>Software Project Management</li>
+                                                        <li>Mobile Application Development</li>
+                                                    </ul>
                                                 </div>
                                             </div>
                                         </div>
@@ -58,18 +57,17 @@ export default class Education extends Component {
                                                  aria-labelledby="headingTwo">
                                                 <div className="panel-body">
                                                     <p>Graduated with Bachelor of Technology in Computer Science from <strong>Jawaharlal Nehru Technological University, Hyderabad, India</strong></p>
-                                                    <p>Course work:
-                                                        <ul>
-                                                            <li>Data Structures and Algorithms</li>
-                                                            <li>Object Oriented Programming</li>
-                                                            <li>Java using Data Structures</li>
-                                                            <li>C using Data Structures</li>
-                                                            <li>C++ using Data Structures</li>
-                                                            <li>Machine Learning</li>
-                                                            <li>Operating System</li>
-                                                            <li>Computer Networks</li>
-                                                        </ul>
-                                                    </p>
+                                                    <p>Course work:</p>
+                                                    <ul>
+                                                        <li>Data Structures and Algorithms</li>
+                                                        <li>Object Oriented Programming</li>
+                                                        <li>Java using Data Structures</li>
+                                                        <li>C using Data Structures</li>
+                                                        <li>C++ using Data Structures</li>
+                                                        <li>Machine Learning</li>
+                                                        <li>Operating System</li>
+                                                        <li>Computer Networks</li>
+                                                    </ul>
                                                 </div>
                                             </div>
                                         </div>
