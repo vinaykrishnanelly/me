@@ -27,10 +27,19 @@ export default class Contact extends Component {
                                 <div className="colorlib-feature colorlib-feature-sm animate-box"
                                      data-animate-effect="fadeInLeft">
                                     <div className="colorlib-icon">
-                                        <i className="icon-map"/>
+                                        <i className="icon-globe2"/>
                                     </div>
                                     <div className="colorlib-text">
                                         <p><a href='https://www.upwork.com/freelancers/~0195f4b70b2e9726a8?mp_source=share' target="_blank">Freelancing - Upwork</a></p>
+                                    </div>
+                                </div>
+                                <div className="colorlib-feature colorlib-feature-sm animate-box"
+                                     data-animate-effect="fadeInLeft">
+                                    <div className="colorlib-icon">
+                                        <i className="icon-linkedin2"/>
+                                    </div>
+                                    <div className="colorlib-text">
+                                        <p><a href='https://www.linkedin.com/in/vinaykrishnanelly/' target="_blank">LinkedIn</a></p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box"

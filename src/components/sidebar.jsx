@@ -11,7 +11,13 @@ export default class Sidebar extends Component {
                         <div className="text-center">
                             <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}}/>
                             <h1 id="colorlib-logo"><a href="index.html">Vinay Krishna Nelly</a></h1>
-                            <span className="position"><a href="#">Software Engineer II</a> in United States</span>
+                            <span className="position"><a href="https://www.linkedin.com/in/vinaykrishnanelly/" target="_blank">Software Engineer II</a> in United States</span>
+                        </div>
+                        <div className="text-center">
+                            <p><a className="btn btn-primary btn-learn"
+                                  href="https://drive.google.com/file/d/1lgdNQxYQ69SkpA8F1HjceKdUaWkAi9wc/view"
+                                  target="_blank">Download CV <i
+                                className="icon-download4"/></a></p>
                         </div>
                         <nav id="colorlib-main-menu" role="navigation" className="navbar">
                             <div id="navbar" className="collapse">
@@ -26,16 +32,18 @@ export default class Sidebar extends Component {
                                 </ul>
                             </div>
                         </nav>
+                        {/*<div className="colorlib-footer">*/}
+                        {/*    <ul>*/}
+                        {/*        /!*<li><a href="#"><i className="icon-facebook2"/></a></li>*!/*/}
+                        {/*        /!*<li><a href="#"><i className="icon-twitter2"/></a></li>*!/*/}
+                        {/*        <li><a href="#"><i className="icon-instagram"/></a></li>*/}
+                        {/*        <li><a href="#"><i className="icon-linkedin2"/></a></li>*/}
+                        {/*    </ul>*/}
+                        {/*</div>*/}
                         <div className="colorlib-footer">
                             <p>
                                 <small>Copyright © All rights reserved </small>
                             </p>
-                            <ul>
-                                <li><a href="#"><i className="icon-facebook2"/></a></li>
-                                <li><a href="#"><i className="icon-twitter2"/></a></li>
-                                <li><a href="#"><i className="icon-instagram"/></a></li>
-                                <li><a href="#"><i className="icon-linkedin2"/></a></li>
-                            </ul>
                         </div>
                     </aside>
                 </div>
