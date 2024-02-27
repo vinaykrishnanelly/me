@@ -28,8 +28,7 @@ export default class Sidebar extends Component {
                         </nav>
                         <div className="colorlib-footer">
                             <p>
-                                <small>
-                                    Copyright © All rights reserved | This template is made with </small>
+                                <small>Copyright © All rights reserved </small>
                             </p>
                             <ul>
                                 <li><a href="#"><i className="icon-facebook2"/></a></li>
